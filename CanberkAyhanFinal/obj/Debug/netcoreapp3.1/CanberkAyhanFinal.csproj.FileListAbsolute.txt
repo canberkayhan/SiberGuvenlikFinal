@@ -1,0 +1,11 @@
+C:\Users\CANBERK\source\repos\CanberkAyhanFinal\CanberkAyhanFinal\bin\Debug\netcoreapp3.1\CanberkAyhanFinal.exe
+C:\Users\CANBERK\source\repos\CanberkAyhanFinal\CanberkAyhanFinal\bin\Debug\netcoreapp3.1\CanberkAyhanFinal.deps.json
+C:\Users\CANBERK\source\repos\CanberkAyhanFinal\CanberkAyhanFinal\bin\Debug\netcoreapp3.1\CanberkAyhanFinal.runtimeconfig.json
+C:\Users\CANBERK\source\repos\CanberkAyhanFinal\CanberkAyhanFinal\bin\Debug\netcoreapp3.1\CanberkAyhanFinal.runtimeconfig.dev.json
+C:\Users\CANBERK\source\repos\CanberkAyhanFinal\CanberkAyhanFinal\bin\Debug\netcoreapp3.1\CanberkAyhanFinal.dll
+C:\Users\CANBERK\source\repos\CanberkAyhanFinal\CanberkAyhanFinal\bin\Debug\netcoreapp3.1\CanberkAyhanFinal.pdb
+C:\Users\CANBERK\source\repos\CanberkAyhanFinal\CanberkAyhanFinal\obj\Debug\netcoreapp3.1\CanberkAyhanFinal.csprojAssemblyReference.cache
+C:\Users\CANBERK\source\repos\CanberkAyhanFinal\CanberkAyhanFinal\obj\Debug\netcoreapp3.1\CanberkAyhanFinal.AssemblyInfoInputs.cache
+C:\Users\CANBERK\source\repos\CanberkAyhanFinal\CanberkAyhanFinal\obj\Debug\netcoreapp3.1\CanberkAyhanFinal.AssemblyInfo.cs
+C:\Users\CANBERK\source\repos\CanberkAyhanFinal\CanberkAyhanFinal\obj\Debug\netcoreapp3.1\CanberkAyhanFinal.dll
+C:\Users\CANBERK\source\repos\CanberkAyhanFinal\CanberkAyhanFinal\obj\Debug\netcoreapp3.1\CanberkAyhanFinal.pdb
